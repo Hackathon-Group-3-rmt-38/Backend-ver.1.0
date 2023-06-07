@@ -2,7 +2,7 @@
 
 NOTE :
 - Push origin secara terpisah ( Gunakan branch masing-masing. Jangan branch main / master )
-- Ketika pull request, compare terhadap branch masing-masing. Kemudian jangan di-merge.
+- Ketika pull request, compare terhadap branch masing-masing. Kemudian jangan di-merge KECUALI jika hasil eksperimen pengerjaan kita sudah berhasil & ingin diteruskan fiturnya, kita akan merging dengan branch main/master. Kemudian pecah lagi branch-nya dari branch main/master yang versi terbaru.
 
 DIRECTION :
 1. Pada saat pertamakali sudah selesai mengerjakan, jangan lupa git add . & git commit -m "version 1.0" , kemudian git push origin <namakalian>
