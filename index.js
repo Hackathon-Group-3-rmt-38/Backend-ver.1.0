@@ -22,6 +22,7 @@ Estimasi Input:
 Cart System
 */
 
+// // usia untuk orang ke-2, ke-3 dan seterusnya ~ mengikuti usia pemesan tiket. Sebab pemesan tiket dianggap bertanggungjawab sebagai pengawas/wali bagi yang di bawah umur
 const input = {
   nama: "Hendra Ahai",
   movie: "John Wick: Chapter 4",
