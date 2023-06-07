@@ -22,6 +22,15 @@ Estimasi Input:
 Cart System
 */
 
+const input = {
+  nama: "Hendra Ahai",
+  movie: "John Wick: Chapter 4",
+  jumlahTicketDibeli: 5,
+  usia: 21,
+  schedule: "12.00",
+  nomorKursi: ["C7", "C8", "C9"]
+}
+
 // EXPECTED OUTPUT
 // nama, harga total tiket, jadwal jam & hari, nomor kursi. Dalam Array of Object.
 
