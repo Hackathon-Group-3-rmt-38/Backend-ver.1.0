@@ -28,7 +28,7 @@ const input = {
   jumlahTicketDibeli: 5,
   usia: 21,
   schedule: "12.00",
-  nomorKursi: ["C7", "C8", "C9"]
+  nomorKursi: ["C7", "C8", "C9", "C10", "C11"]
 }
 
 // EXPECTED OUTPUT
